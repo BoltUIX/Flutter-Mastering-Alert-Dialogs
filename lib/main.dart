@@ -1,3 +1,4 @@
+import 'package:dialog/snackbar_custom.dart';
 import 'package:flutter/material.dart';
 
 import 'dialog_basic.dart';
@@ -25,9 +26,18 @@ class MyApp extends StatelessWidget {
         // Notice that the counter didn't reset back to zero; the application
         // is not restarted.
         useMaterial3: true,
-        colorSchemeSeed: Colors.red
+        // colorSchemeSeed: Colors.red,
+
+        /* try this snackbar action button color may override your theme color*/
+        colorScheme: const ColorScheme.light(
+        primary: Colors.blue,
+          onPrimary: Colors.blue,
+          secondary: Colors.black,
+        ),
+
+
       ),
-      home:  const DialogBasicRoute(),
+      home:  const SnackbarCustomRoute(),
     );
   }
 }
