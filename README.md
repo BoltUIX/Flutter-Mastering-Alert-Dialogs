@@ -10,3 +10,13 @@ Mastering Alert Dialogs in Flutter with Material Design
 
 Read more:
 https://www.boltuix.com/2023/02/mastering-alert-dialogs-in-flutter-with.html
+
+
+Displaying SnackBars in Flutter: A Step-by-Step Guide with Examples
+* Snackbar
+* Custom Snackbar
+
+* <img  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLlSs5GDocH1a1C35mV4vswic8iWSNLX7dPmRVZTQKtvagBWqrvFBhdimhTx8sYzOEUDgef1KW3dbrGjjlgeAM9g5pr6dy_7hcYAJJHCzNw8jHWt-QAwraD-2lIeTAcL1_MX6A1kjwh6-BmMnDZNv2RLlJNz43mQqszQGHAyWoqz7SU9jcTz0G7GFT/s16000/snackbar.jpg">
+
+* Read more:
+https://www.boltuix.com/2023/02/displaying-snackbars-in-flutter-step-by.html
