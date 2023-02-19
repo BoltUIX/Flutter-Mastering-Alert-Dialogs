@@ -20,3 +20,8 @@ Displaying SnackBars in Flutter: A Step-by-Step Guide with Examples
 
 * Read more:
 https://www.boltuix.com/2023/02/displaying-snackbars-in-flutter-step-by.html
+
+<img  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEipvVEiA11Hx1KWV0oBkayRStluw7ZwZxL02eOhTEq7qRAgwaPPMF8EzoY1icOSvFhZMwpqeZ_XChtJiEvW1abAqjC2ausCUyJzm1zVROQLGqICy99JBtlMJZgrqRjdWGDcZPy89od3Fe8goB1dzR0nRhCx4jSlBTFpr-23saUwrCDAa9dJZcynYS/s1280/bolt%20uix%20ios%20dialog.JPG">
+
+* Read more:
+https://www.boltuix.com/2023/02/cupertino-dialogs-in-flutter-step-by.html
