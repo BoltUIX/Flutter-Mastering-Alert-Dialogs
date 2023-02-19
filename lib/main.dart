@@ -1,6 +1,7 @@
 import 'package:dialog/snackbar_custom.dart';
 import 'package:flutter/material.dart';
 
+import 'cupertino_dialog.dart';
 import 'dialog_basic.dart';
 
 void main() {
@@ -37,7 +38,7 @@ class MyApp extends StatelessWidget {
 
 
       ),
-      home:  const SnackbarCustomRoute(),
+      home:  const CupertinoDialog(),
     );
   }
 }

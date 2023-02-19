@@ -164,7 +164,7 @@ class SnackbarCustomRouteState extends State<SnackbarCustomRoute> {
           // Setting the background color to transparent
           backgroundColor: Colors.transparent,
           // Setting the duration for how long the snack bar should be visible
-          duration: const Duration(seconds: 3),
+          duration: const Duration(seconds: 10),
         ),
       );
     }
